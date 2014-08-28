@@ -1,3 +1,5 @@
 This is a file from the web view
 
 Beccause this file and the commit that's coming is on the web and not yet on my machine.
+
+This is an additional commit from the web to show how to deal with merges locally.
